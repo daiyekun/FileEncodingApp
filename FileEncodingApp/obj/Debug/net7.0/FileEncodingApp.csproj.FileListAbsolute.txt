@@ -1,0 +1,17 @@
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\bin\Debug\net7.0\FileEncodingApp.exe
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\bin\Debug\net7.0\FileEncodingApp.deps.json
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\bin\Debug\net7.0\FileEncodingApp.runtimeconfig.json
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\bin\Debug\net7.0\FileEncodingApp.dll
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\bin\Debug\net7.0\FileEncodingApp.pdb
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\bin\Debug\net7.0\Ude.NetStandard.dll
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\obj\Debug\net7.0\FileEncodingApp.csproj.AssemblyReference.cache
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\obj\Debug\net7.0\FileEncodingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\obj\Debug\net7.0\FileEncodingApp.AssemblyInfoInputs.cache
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\obj\Debug\net7.0\FileEncodingApp.AssemblyInfo.cs
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\obj\Debug\net7.0\FileEncodingApp.csproj.CoreCompileInputs.cache
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\obj\Debug\net7.0\FileEncodingApp.csproj.CopyComplete
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\obj\Debug\net7.0\FileEncodingApp.dll
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\obj\Debug\net7.0\refint\FileEncodingApp.dll
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\obj\Debug\net7.0\FileEncodingApp.pdb
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\obj\Debug\net7.0\FileEncodingApp.genruntimeconfig.cache
+E:\woomycode\TestDome\FileEncodingApp\FileEncodingApp\obj\Debug\net7.0\ref\FileEncodingApp.dll

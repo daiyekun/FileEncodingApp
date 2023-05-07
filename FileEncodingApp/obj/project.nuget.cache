@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yAmtgiWkjA+eWkzX0RbcOHat193PnqoKGpfgPzc5jnlvxoY4QH23/tn8kZSgVYhP7JEYy/dnbUTsr2+nyCmoLw==",
+  "success": true,
+  "projectFilePath": "E:\\woomycode\\TestDome\\FileEncodingApp\\FileEncodingApp\\FileEncodingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\ude.netstandard\\1.2.0\\ude.netstandard.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
