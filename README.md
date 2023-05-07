@@ -140,7 +140,7 @@ namespace FileEncodingApp.Utility
 
 注意事项：
 
-~~~
+~~~shell
 1、再测试过程中发现，用notepad++建立的gb2312（简体中文）的文件。获取的时gb18030
 最后查询了下，可能是.net历史遗留问题或者编码遗留问题。所以遇到gb18030就当jb2312用
 2、如果Encoding.GetEncoding(“gb2312”) 或者其他字符串没法转换成.net System.Text.Encoding时：
