@@ -56,7 +56,7 @@ namespace FileEncodingApp.Utility
         {
             try
             {
-                Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
+                Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);//这个注册其实应该再入口处注册一次就可以
                 var charset = GetCharset(filename);
                 return Encoding.GetEncoding(charset);
             }

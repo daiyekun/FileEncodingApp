@@ -149,5 +149,9 @@ Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 当前方法有效，如果全局那就全局注册吧
 整体测试转换是可以成功的，但是其他特殊编码格式转换成utf-8没有测试过
 只测试过gb2312 转换utf-8
+3、如果遇到应用此项目的类库是一个.netstandard2.1 说“CodePagesEncodingProvider”不支持
+引用：System.Text.Encoding.CodePages nuget 去引用
+<PackageReference Include="System.Text.Encoding.CodePages" Version="7.0.0" />
+
 ~~~
 
